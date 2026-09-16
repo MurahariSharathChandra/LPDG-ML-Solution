@@ -1,0 +1,2 @@
+threshold,accuracy,precision,recall,f1_score,roc_auc,true_negative,false_positive,false_negative,true_positive
+0.45,0.7666666666666667,0.6513157894736842,0.853448275862069,0.7388059701492538,0.8033170914542728,131,53,17,99

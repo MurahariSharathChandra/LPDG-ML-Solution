@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.env
+predictions.csv
+outputs/*.csv
+reports/*.png
+data/
+reports/historical_visit_features.csv
